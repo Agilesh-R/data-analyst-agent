@@ -1,2 +1,6 @@
-jupyter
-pandas
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+python-multipart
+aiofiles
